@@ -1,0 +1,38 @@
+те що негодиться напевне
+.destination .content-section .destination-content .batu .left-side {
+  width: 713px;
+  height: 568px;
+  display: inline-block;
+  position: relative;
+}
+.destination .content-section .destination-content .batu .left-side .eclipse .fa-arrow-right {
+  font-size: 12pt;
+  padding-left: 4px;
+}
+.destination .content-section .destination-content .batu .left-side .eclipse .fa-arrow-right:hover {
+  color: black;
+}
+.destination .content-section .destination-content .batu .left-side .eclipse {
+  -webkit-border-top-left-radius: 500px;
+  -moz-border-radius-topleft: 500px;
+  border-top-left-radius: 500px;
+  background-color: rgba(100, 100, 100, 0.4);
+  -webkit-box-shadow: -53px -42px 132px -37px rgba(0,0,0,0.68);
+  -moz-box-shadow: -53px -42px 132px -37px rgba(0,0,0,0.68);
+  box-shadow: -53px -42px 132px -37px rgba(0,0,0,0.68);
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  display: inline-block;
+}
+
+.destination .content-section .destination-content .batu a {
+  color: #fff;
+  margin: 5px 10px;
+  display: inline-block;
+  font-family: "Lato";
+  font-size: 16pt;
+}
+.destination .content-section .destination-content .batu .left-side .eclipse .fa .fa-arrow-right {
+  font-size: 4pt;
+}
